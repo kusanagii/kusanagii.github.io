@@ -4,9 +4,9 @@
   <subtitle>Walk steps step by step</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.jingbao.love/"/>
   <updated>2017-01-02T10:00:04.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.jingbao.love/</id>
   
   <author>
     <name>kusanagi</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>辨析 Sass 中的 Map 和 List</title>
-    <link href="http://yoursite.com/2015/10/21/demo/"/>
-    <id>http://yoursite.com/2015/10/21/demo/</id>
+    <link href="http://www.jingbao.love/2015/10/21/demo/"/>
+    <id>http://www.jingbao.love/2015/10/21/demo/</id>
     <published>2015-10-21T02:34:12.000Z</published>
     <updated>2017-01-02T10:00:04.000Z</updated>
     
@@ -112,7 +112,7 @@
     </summary>
     
     
-      <category term="css" scheme="http://yoursite.com/tags/css/"/>
+      <category term="css" scheme="http://www.jingbao.love/tags/css/"/>
     
   </entry>
   
